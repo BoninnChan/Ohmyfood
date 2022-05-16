@@ -372,8 +372,8 @@ body {
   }
   
   .appears-with-opacity {
-    -webkit-animation: opacity 3s both;
-            animation: opacity 3s both;
+    -webkit-animation: opacity 1s both;
+            animation: opacity 1s both;
   }
   
   #case-1 {
@@ -477,7 +477,7 @@ body {
     cursor: pointer;
   }
   
-  .footer__bloc-lien:hover .footer__bloc-lien__titre {
+  .footer__bloc-lien:hover .footer__bloc-link__title {
     text-decoration: underline;
   }
   
@@ -485,7 +485,7 @@ body {
     margin-right: 7px;
   }
   
-  .footer__bloc-lien__titre {
+  .footer__bloc-lien__title {
     font-size: 16px;
     font-weight: 400;
   }

@@ -372,8 +372,8 @@ body {
   }
   
   .appears-with-opacity {
-    -webkit-animation: opacity 3s both;
-            animation: opacity 3s both;
+    -webkit-animation: opacity 1s both;
+            animation: opacity 1s both;
   }
   
   #case-1 {
