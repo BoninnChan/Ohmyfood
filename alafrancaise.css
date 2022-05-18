@@ -349,7 +349,6 @@ body {
     }
     100% {
       -webkit-transform: scaleX(-50px);
-              transform: scaleX(-50px);
     }
   }
   
