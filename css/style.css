@@ -98,6 +98,13 @@ body {
     height: 80px;
     width: 100%;
   }
+
+  #search-input {
+    border: none;
+    background: #f3f3f3;
+    margin: 8px;
+    padding: 8px;
+  }
   
   .header_logo {
     font-family: 'Shrikhand', cursive;
